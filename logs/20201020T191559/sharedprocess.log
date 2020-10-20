@@ -1,0 +1,3 @@
+[2020-10-20 19:16:03.410] [sharedprocess] [info] main {"machineId":"ba7d125642c18efc5b481ad3480a4f1b35832bb9ac926e2f2300e29c43d8aaff","windowId":2}
+[2020-10-20 19:16:03.463] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/raja/programming/newton/react/assignments/relativeList/Relatives-List-React---Relatives-List-React/User/snippets'
+[2020-10-20 19:16:43.434] [sharedprocess] [info] Starting to clean up unused language packs.
