@@ -1,0 +1,107 @@
+[2020-10-20 21:23:05.198] [userDataSync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2020-10-20 21:23:05.198] [userDataSync] [info] Auto Sync is disabled.
+[2020-10-20 21:47:31.016] [userDataSync] [info] Did reset the local sync state.
+[2020-10-20 21:48:06.507] [userDataSync] [info] Settings: Stopped synchronizing settings.
+[2020-10-20 21:48:06.508] [userDataSync] [info] Keybindings: Stopped synchronizing keybindings.
+[2020-10-20 21:48:06.510] [userDataSync] [info] Snippets: Stopped synchronizing snippets.
+[2020-10-20 21:48:06.511] [userDataSync] [info] GlobalState: Stopped synchronizing globalstate.
+[2020-10-20 21:48:06.512] [userDataSync] [info] Extensions: Stopped synchronizing extensions.
+[2020-10-20 21:48:13.321] [userDataSync] [info] Did reset the local sync state.
+[2020-10-20 21:48:21.118] [userDataSync] [info] Settings: Updated local settings
+[2020-10-20 21:48:21.126] [userDataSync] [info] Settings: Updated last synchronized settings
+[2020-10-20 21:48:21.133] [userDataSync] [info] Keybindings: Updated local keybindings
+[2020-10-20 21:48:21.141] [userDataSync] [info] Keybindings: Updated last synchronized keybindings
+[2020-10-20 21:48:21.142] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-10-20 21:48:21.148] [userDataSync] [info] Snippets: Updated last synchronized snippets
+[2020-10-20 21:48:21.156] [userDataSync] [info] GlobalState: Updated global state ["java.2.editedCount","java.2.editedDate","workbench.view.extension.test.state.hidden","workbench.view.extensions.state.hidden","cpp.1.sessionCount","java.2.sessionCount","javascript.1.sessionCount","nps/sessionCount","typescript.1.sessionCount","workbench.activity.pinnedViewlets2","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden"]
+[2020-10-20 21:48:21.156] [userDataSync] [info] GlobalState: Updated local ui state
+[2020-10-20 21:48:21.392] [userDataSync] [info] GlobalState: Updated remote ui state
+[2020-10-20 21:48:21.398] [userDataSync] [info] GlobalState: Updated last synchronized ui state
+[2020-10-20 21:48:22.379] [userDataSync] [info] Extensions: Uninstalled local extension. coenraads.bracket-pair-colorizer
+[2020-10-20 21:48:22.388] [userDataSync] [info] Extensions: Uninstalled local extension. hookyqr.beautify
+[2020-10-20 21:48:22.392] [userDataSync] [info] Extensions: Uninstalled local extension. xabikos.javascriptsnippets
+[2020-10-20 21:48:22.398] [userDataSync] [info] Extensions: Uninstalled local extension. dsznajder.es7-react-js-snippets
+[2020-10-20 21:48:22.404] [userDataSync] [info] Extensions: Uninstalled local extension. esbenp.prettier-vscode
+[2020-10-20 21:48:22.409] [userDataSync] [info] Extensions: Uninstalled local extension. equimper.react-native-react-redux
+[2020-10-20 21:48:22.415] [userDataSync] [info] Extensions: Uninstalled local extension. github.vscode-pull-request-github
+[2020-10-20 21:48:23.045] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-pack 0.10.0
+[2020-10-20 21:48:23.053] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-dependency 0.14.0
+[2020-10-20 21:48:23.068] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-maven 0.24.2
+[2020-10-20 21:48:23.140] [userDataSync] [info] Extensions: Enabled extension visualstudioexptteam.vscodeintellicode 1.2.10
+[2020-10-20 21:48:23.151] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-test 0.25.0
+[2020-10-20 21:48:23.154] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-debug 0.29.0
+[2020-10-20 21:48:23.164] [userDataSync] [info] Extensions: Enabled extension redhat.java 0.69.0
+[2020-10-20 21:48:45.527] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-dependency 0.14.0
+[2020-10-20 21:49:47.941] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.29.0
+[2020-10-20 21:51:35.547] [userDataSync] [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.2.10
+[2020-10-20 21:51:46.382] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-maven 0.24.2
+[2020-10-20 21:53:50.469] [userDataSync] [info] Extensions: Stopped synchronizing extensions.
+[2020-10-20 21:53:50.584] [userDataSync] [error] Canceled: Canceled
+    at Object.t.canceled (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:11:477)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:115
+    at l.fire (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:46:242)
+    at s.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:121)
+    at t.CancellationTokenSource.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:686)
+    at Object.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:228)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:459
+    at Map.forEach (<anonymous>)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:446
+    at Object.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:233)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at T.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:913)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at EventEmitter.pe (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:612:264)
+    at Object.onceWrapper (events.js:313:26)
+    at EventEmitter.emit (events.js:223:5)
+    at Object.onMessage (electron/js2c/renderer_init.js:138:873)
+[2020-10-20 21:53:50.584] [userDataSync] [info] Extensions: Skipped synchronizing extension Java Extension Pack
+[2020-10-20 21:53:50.585] [userDataSync] [error] Canceled: Canceled
+    at Object.t.canceled (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:11:477)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:115
+    at l.fire (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:46:242)
+    at s.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:121)
+    at t.CancellationTokenSource.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:686)
+    at Object.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:228)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:459
+    at Map.forEach (<anonymous>)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:446
+    at Object.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:233)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at T.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:913)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at EventEmitter.pe (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:612:264)
+    at Object.onceWrapper (events.js:313:26)
+    at EventEmitter.emit (events.js:223:5)
+    at Object.onMessage (electron/js2c/renderer_init.js:138:873)
+[2020-10-20 21:53:50.585] [userDataSync] [info] Extensions: Skipped synchronizing extension Java Test Runner
+[2020-10-20 21:53:50.585] [userDataSync] [error] Canceled: Canceled
+    at Object.t.canceled (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:11:477)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:115
+    at l.fire (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:46:242)
+    at s.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:121)
+    at t.CancellationTokenSource.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:50:686)
+    at Object.cancel (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:51:228)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:459
+    at Map.forEach (<anonymous>)
+    at file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:594:446
+    at Object.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:233)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at T.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:913)
+    at l (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:37:831)
+    at u.clear (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:399)
+    at u.dispose (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:38:378)
+    at EventEmitter.pe (file:///snap/code/48/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:612:264)
+    at Object.onceWrapper (events.js:313:26)
+    at EventEmitter.emit (events.js:223:5)
+    at Object.onMessage (electron/js2c/renderer_init.js:138:873)
+[2020-10

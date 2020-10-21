@@ -91,11 +91,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -107,7 +109,8 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "A&&uto Save"
+                        "label": "A&&uto Save",
+                        "checked": true
                     },
                     {
                         "id": "submenuitem.23",
@@ -170,11 +173,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -574,7 +579,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -583,7 +589,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1461,10 +1468,10 @@
             "backupPath": "/raja/programming/newton/react/assignments/relativeList/Relatives-List-React---Relatives-List-React/Backups/0f2e4eaca0b9c48f63ed91cea4da7f37",
             "uiState": {
                 "mode": 0,
-                "x": 1765,
-                "y": 37,
+                "x": 261,
+                "y": 78,
                 "width": 1024,
-                "height": 768
+                "height": 731
             }
         },
         "openedWindows": []

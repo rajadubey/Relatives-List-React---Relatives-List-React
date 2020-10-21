@@ -1,0 +1,51 @@
+[2020-10-20 21:23:05.144] [sharedprocess] [info] main {"machineId":"ba7d125642c18efc5b481ad3480a4f1b35832bb9ac926e2f2300e29c43d8aaff","windowId":2}
+[2020-10-20 21:23:45.164] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-20 21:48:21.524] [sharedprocess] [info] Uninstalling extension: coenraads.bracket-pair-colorizer
+[2020-10-20 21:48:21.524] [sharedprocess] [info] Uninstalling extension: dsznajder.es7-react-js-snippets
+[2020-10-20 21:48:21.525] [sharedprocess] [info] Uninstalling extension: equimper.react-native-react-redux
+[2020-10-20 21:48:21.527] [sharedprocess] [info] Uninstalling extension: esbenp.prettier-vscode
+[2020-10-20 21:48:21.532] [sharedprocess] [info] Uninstalling extension: github.vscode-pull-request-github
+[2020-10-20 21:48:21.536] [sharedprocess] [info] Uninstalling extension: hookyqr.beautify
+[2020-10-20 21:48:21.542] [sharedprocess] [info] Uninstalling extension: xabikos.javascriptsnippets
+[2020-10-20 21:48:21.562] [sharedprocess] [info] Successfully uninstalled extension: coenraads.bracket-pair-colorizer
+[2020-10-20 21:48:21.567] [sharedprocess] [info] Successfully uninstalled extension: dsznajder.es7-react-js-snippets
+[2020-10-20 21:48:21.573] [sharedprocess] [info] Successfully uninstalled extension: equimper.react-native-react-redux
+[2020-10-20 21:48:21.577] [sharedprocess] [info] Successfully uninstalled extension: esbenp.prettier-vscode
+[2020-10-20 21:48:21.584] [sharedprocess] [info] Successfully uninstalled extension: github.vscode-pull-request-github
+[2020-10-20 21:48:21.590] [sharedprocess] [info] Successfully uninstalled extension: hookyqr.beautify
+[2020-10-20 21:48:21.595] [sharedprocess] [info] Successfully uninstalled extension: xabikos.javascriptsnippets
+[2020-10-20 21:48:23.046] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2020-10-20 21:48:23.053] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2020-10-20 21:48:23.068] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-10-20 21:48:23.141] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-10-20 21:48:23.152] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2020-10-20 21:48:23.154] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2020-10-20 21:48:23.164] [sharedprocess] [info] Installing extension: redhat.java
+[2020-10-20 21:48:41.536] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack undefined
+[2020-10-20 21:48:41.854] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscjava.vscode-java-pack-0.10.0: vscjava.vscode-java-pack
+[2020-10-20 21:48:41.855] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscjava.vscode-java-pack-0.10.0
+[2020-10-20 21:48:41.858] [sharedprocess] [info] Installation completed. vscjava.vscode-java-pack
+[2020-10-20 21:48:45.372] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency undefined
+[2020-10-20 21:48:45.521] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscjava.vscode-java-dependency-0.14.0: vscjava.vscode-java-dependency
+[2020-10-20 21:48:45.521] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscjava.vscode-java-dependency-0.14.0
+[2020-10-20 21:48:45.522] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2020-10-20 21:48:45.526] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2020-10-20 21:49:44.846] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test undefined
+[2020-10-20 21:49:45.054] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscjava.vscode-java-test-0.25.0: vscjava.vscode-java-test
+[2020-10-20 21:49:45.055] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscjava.vscode-java-test-0.25.0
+[2020-10-20 21:49:45.057] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2020-10-20 21:49:47.745] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug undefined
+[2020-10-20 21:49:47.930] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscjava.vscode-java-debug-0.29.0: vscjava.vscode-java-debug
+[2020-10-20 21:49:47.930] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscjava.vscode-java-debug-0.29.0
+[2020-10-20 21:49:47.933] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2020-10-20 21:49:47.940] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2020-10-20 21:51:34.966] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2020-10-20 21:51:35.539] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-10-20 21:51:35.539] [sharedprocess] [info] Renamed to /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-10-20 21:51:35.540] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-10-20 21:51:35.546] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-10-20 21:51:46.046] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven undefined
+[2020-10-20 21:51:46.374] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscjava.vscode-maven-0.24.2: vscjava.vscode-maven
+[2020-10-20 21:51:46.375] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscjava.vscode-maven-0.24.2
+[2020-10-20 21:51:46.376] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-10-20 21:51:46.380] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven

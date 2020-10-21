@@ -1,3 +1,8 @@
 {
-    "window.zoomLevel": -1
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
